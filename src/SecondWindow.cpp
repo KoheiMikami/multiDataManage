@@ -6,9 +6,6 @@
 //
 //
 
-#include "SecondWindow.hpp"
-
-#include "SecondWindow.hpp"
 
 void SecondWindow::setup() {
    ofSetWindowTitle("SecondWindow");
