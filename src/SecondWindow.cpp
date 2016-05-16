@@ -7,8 +7,10 @@
 //
 
 
+#include "SecondWindow.hpp"
+
 void SecondWindow::setup() {
-   ofSetWindowTitle("SecondWindow");
+    ofSetWindowTitle("SecondWindow");
     ofBackground(0);
 }
 
